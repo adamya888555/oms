@@ -1,0 +1,13 @@
+[project]
+name = "testad"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-ollama>=0.3.6",
+    "langgraph>=0.5.4",
+    "ollama>=0.5.1",
+    "streamlit>=1.47.1",
+]
