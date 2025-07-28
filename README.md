@@ -4,13 +4,18 @@
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/OMS-Agentic-Ai.git
+git clone https://github.com/your-username/oms.git
 ```
 2. Navigate to the project directory:
 ```
 cd dir
 ```
-3. Install the required dependencies:
+3. Create a virtual environment
+4. Activate it:
+```
+.venv/Scripts/Activate
+```
+5. Install the required dependencies:
 ```
 pip install -r requirements.txt
 ```
