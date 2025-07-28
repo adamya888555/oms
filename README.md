@@ -15,10 +15,7 @@ cd dir
 ```
 .venv\Scripts\activate
 ```
-5. Install the required dependencies:
-```
-pip install -r requirements.txt
-```
+5. Install the required dependencies given in the pyproject.toml file
 
 ## Usage
 
