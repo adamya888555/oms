@@ -13,7 +13,7 @@ cd dir
 3. Create a virtual environment
 4. Activate it:
 ```
-.venv/Scripts/Activate
+.venv\Scripts\activate
 ```
 5. Install the required dependencies:
 ```
